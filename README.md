@@ -1,18 +1,23 @@
-#Invoice creator APP in codeigniter php framework
+#Invoice creator APP in codeigniter php framework.
 
-## Application use in [slappinvoice.com](https://slappinvoice.com) for create invoices and accounting management
+The purpose of this reporsitory is only to show code transparency, my own work and how the application is build.
+Config files and asset folders are remove to keep this repository secure and not avaible for usage.
 
-[slappinvoice.com](https://slappinvoice.com)  is a invoice service software. Its base on a subscription model with 3 plans that are ajust for the need of the clients.
+## Application use in [slappinvoice.com](https://slappinvoice.com) for create invoices and accounting management, easy for everyone to use. UI is very simple and intuitive, easy to undertand for people of all ages. 
+### This software was created on november 2019.
+
+[slappinvoice.com](https://slappinvoice.com)  is a invoice service software. Its base on a subscription model with 3 plans that are ajust for the need of the clients. It is upgrading and getting new features each month. Sopport and assistance is always available each and everyday.
+
+Visit the website to know in deep about this software: [slappinvoice.com](https://slappinvoice.com)
+Acess the app using credentials downbelow. Go to : [app.slappinvoice.com](https://app.slappinvoice.com)
 
 ##### You can have a free tour into the application withdout subscription only to try it. 
 ###### Access with a test users :
 ###### Email : test@gmail.com
 ###### Password : usertest
 
-Acess using credentials to [app.slappinvoice.com](https://app.slappinvoice.com)
+Normally i write my code in english but in this project is in spanish for better understanding to my clients and people who im developing together with.
 
-The purpose of this reporsitory is only to show code transparency, my own work and how the application is build.
-Config files and asset folders are remove to keep this repository secure and not avaible for usage.
 
 # Features
 
@@ -32,7 +37,7 @@ Everything is organize by "Controllers" to manage the "Views" folder and databas
 ### Controllers structure
 
 In the controllers folder, all the controllers extend from "Libraries" that handle user access.
-This libraries controllers extend from the main "MY_Controller" that contain the load models, helpers and libraries need all around the application in core folder.
+This libraries controllers extend from the main "MY_Controller" that contain the load of models, helpers and libraries need all around the application in core folder.
 Models also extend from "MY_Model" in core folder.
 
 #### Main Controllers  
